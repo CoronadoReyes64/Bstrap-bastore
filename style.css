@@ -47,7 +47,7 @@
     font-size: 30px;
     color: rgb(202, 192, 181);
     text-align: left;
-   flex-direction: row-reverse;
+  
 }
 #btn1 button{
     width: 150px;
