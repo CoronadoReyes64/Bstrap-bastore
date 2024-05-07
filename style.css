@@ -40,13 +40,13 @@
 .content h1{
     font-size: 40px;
     color: rgb(200, 162, 121);
-    text-align:center;
+    text-align:left;
    
 }
 .content h2{
     font-size: 30px;
     color: rgb(202, 192, 181);
-    text-align: center;
+    text-align: left;
    flex-direction: row-reverse;
 }
 #btn1 button{
